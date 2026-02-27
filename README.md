@@ -29,43 +29,6 @@ Groq LLM API
 Jupyter Notebook
 python dotenv
 
-Project Structure
-
-Customer-Support-GenAI
-│
-├── Customer_Support_Agent_GENAI.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/harshinigorinta/customer-support-genai.git
-
-cd customer-support-genai
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Environment Setup
-
-Create a .env file in the project root and add your API key:
-
-GROQ_API_KEY=your_api_key_here
-
-Do not upload this file to GitHub.
-
-Running the Project
-
-Start Jupyter Notebook:
-
-jupyter notebook
-
-Open the notebook file and run all cells to interact with the chatbot.
-
 Example Interaction
 
 User: How can I reset my password?
